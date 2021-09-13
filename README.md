@@ -34,4 +34,4 @@ The course delves quite deeply into the specifics of programming on the pros and
 There is also practice, and it is not easy, although there is not much of it.
 - **Introduction to C++Programming** - https://stepik.org/course/363/syllabus
 The list will be updated...
-![Alt-текст](https://картинки-для-срисовки.рф/media/posts_admins/fiksiki/fiksik-dedus.jpg "Dedus")
+![Dedus](https://1.bp.blogspot.com/-cu83-o2vn_I/WUQduH8BLkI/AAAAAAABIds/Z-RQ7wph1ogMu1713orcRbb6kqykKlKQACKgBGAs/s1600/fixiki_48.png "Dedus")
