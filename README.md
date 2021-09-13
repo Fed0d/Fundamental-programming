@@ -1,9 +1,12 @@
 #Programming in C++ (USE)
+
 ---
+
 ##Introduction
 The course is designed to teach the basic elements of structural programming in `C++`. The training is aimed at passing the Unified State Exam 2022.
 
 ---
+
 ##Education plan
 The course consists of seminars, homework and recommended sources for self-education.
 
@@ -11,11 +14,13 @@ The course consists of seminars, homework and recommended sources for self-educa
 - After each workshop, the homework will be available in this repository. A link to the repository with the completed task send to me in the [VK](https://vk.com/prohoretz). The deadline for completing the task is 1 week.
 - Links to additional materials will be provided below...
 
---- 
+---
+
 ##Content
 Here the code from seminars and homework will be laid out.
 
 ---
+
 ##Assessment of academic performance
 
 Your academic performance level will be recalculated every month according to the scale below:
@@ -28,6 +33,7 @@ Papus/Masya|4 completed homework assignments.
 **Dedus** | Especially effective and beautiful performance of all homework assignments.
 
 ---
+
 ##Useful links
 - **Programming in C++** - https://stepik.org/course/7
 The course delves quite deeply into the specifics of programming on the pros and gives a lot of theory,including about the implementation of OOP tools.
